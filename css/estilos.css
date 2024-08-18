@@ -1,8 +1,8 @@
 body
 {
-    color: deeppink;
+    color: rgb(64, 63, 64);
     text-align: center;
-    font-family: "arial";
+    font-family: 'Courier New', Courier, monospace;
 }
 
 #container
